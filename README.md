@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is DUAA. and I'm from PAKISTAN<br>Busy coding, debugging & learning new things<br> 🐛💻</h2>
+<h2 data-importer="text" align="left">Hi 👋! My name is DUAA.<br>Busy coding, debugging & learning new things<br> 🐛💻</h2>
 
 ###
 
