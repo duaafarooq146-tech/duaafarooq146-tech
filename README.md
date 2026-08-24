@@ -1,45 +1,100 @@
-<h2 data-importer="text" align="left">Hi 👋Welcome To My Github.<br>Busy coding, debugging & learning new things<br> 🐛💻</h2>
+<h2 data-importer="text" align="left">
+  Hi 👋 Welcome To My GitHub.<br>
+  Busy coding, debugging & learning new things 🐍💻
+</h2>
 
-###
+<hr>
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/duaafarooq146-tech/duaafarooq146-tech/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/duaafarooq146-tech/duaafarooq146-tech/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=duafarooq146-tech&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="150"
+    alt="GitHub stats"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=duafarooq146-tech&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" 
+    height="150"
+    alt="Most used languages"
+  />
+
 </div>
 
-###
+<br>
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img 
+  data-importer="image" 
+  align="right" 
+  height="150" 
+  src="https://i.imgflip.com/65efzo.gif" 
+/>
 
-###
+<h3 data-importer="techs" align="left">
+  💻 Technologies & Tools
+</h3>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+<p align="left">
+
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
+    height="40" 
+    alt="React"
+  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    height="40" 
+    alt="Python"
+  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+    height="40" 
+    alt="Git"
+  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+    height="40" 
+    alt="GitHub"
+  />
+
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
 
-###
+  <img 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
+    height="40" 
+    alt="C"
+  />
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+</p>
 
-###
+<br>
 
-<br clear="both">
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail"
+  />
+</a>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/duaafarooq146-tech/duaafarooq146-tech/snake-output/snake.svg" alt="Snake animation" />
+<a href="YOUR_LINKEDIN_LINK_HERE">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+    alt="LinkedIn"
+  />
+</a>
 
-###
+<br><br>
 
-<p data-importer="text" align="left">Hello World!!</p>
-
-###
+<img 
+  src="https://raw.githubusercontent.com/duafarooq146-tech/duafarooq146-tech/output/snake.svg" 
+  alt="Snake animation"
+/>
