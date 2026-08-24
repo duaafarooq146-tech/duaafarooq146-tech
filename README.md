@@ -27,71 +27,44 @@
   align="right"
   height="150"
   src="https://i.imgflip.com/65efzo.gif"
+  alt="Cute animated character"
 />
 
 <h3 align="left">💻 Technologies & Tools</h3>
 
-<p align="left">
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C">
+</div>
 
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    height="40"
-    alt="React"
-  />
-
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-    height="40"
-    alt="Python"
-  />
-
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-    height="40"
-    alt="Git"
-  />
-
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    height="40"
-    alt="GitHub"
-  />
-
-  <img width="12" />
-
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-    height="40"
-    alt="C"
-  />
-
-</p>
-
-<br>
+<br><br>
 
 <a href="mailto:YOUR_EMAIL_HERE">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
-  />
+<img
+  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Gmail"
+/>
 </a>
 
+&nbsp;
+
 <a href="YOUR_LINKEDIN_LINK_HERE">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img
+  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 <br><br>
+
+<div align="center">
 
 <img
   src="https://raw.githubusercontent.com/duafarooq146-tech/duafarooq146-tech/output/snake.svg"
   alt="Snake animation"
 />
+
+</div>
